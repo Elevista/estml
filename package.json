@@ -1,0 +1,32 @@
+{
+  "name": "estml",
+  "version": "0.0.1",
+  "description": "Render html ES6 way :)",
+  "main": "index.js",
+  "author": "Elevista",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jasmine": "^2.8.4",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elevista/estml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Elevista/estml/issues"
+  },
+  "homepage": "https://github.com/Elevista/estml#readme"
+}
